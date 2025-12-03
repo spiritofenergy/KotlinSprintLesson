@@ -1,6 +1,9 @@
 package org.example.lesson_1
 
 fun main() {
-    println("Решение к 1 уроку 1 задачи")
-    println("Cделал доработку")
+
+    val order = 75
+    val thankText = " Спасибо за покупку"
+    val screenHeight: Int
+    val screenWidth: Int
 }
