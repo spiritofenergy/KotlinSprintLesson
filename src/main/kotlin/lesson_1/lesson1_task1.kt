@@ -1,6 +1,18 @@
 package org.example.lesson_1
 
 fun main() {
-    println("Решение к 1 уроку 1 задачи")
-    println("Cделал доработку")
+    val year = 1961
+    var hour = 9
+    var minute = 7
+
+    println("Год полета: " + year)
+    println("Взлет: " + "0" + hour + " часов")
+    println("Взлет: " + "0" + hour + " минут")
+
+    hour = 10
+    minute = 55
+
+    println("Посадка: " + hour + ":" + minute)
+
+
 }
